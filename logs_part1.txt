@@ -1,0 +1,20 @@
+pc@LAPTOP-B8RU2RJU MINGW64 ~/Desktop/GIT remote/hillel_Kuzmenko (master)
+$ git reflog
+4c8da59 (HEAD -> master, develop) HEAD@{0}: merge develop: Fast-forward
+40f96f5 (origin/master, origin/HEAD) HEAD@{1}: checkout: moving from develop to master
+4c8da59 (HEAD -> master, develop) HEAD@{2}: commit (merge): merge1
+0cd0315 HEAD@{3}: commit: merge1	
+4d45ecf (test) HEAD@{4}: checkout: moving from develop to develop
+4d45ecf (test) HEAD@{5}: merge test: Fast-forward
+a193059 HEAD@{6}: checkout: moving from release to develop
+c6ab07c (release) HEAD@{7}: commit: fourth commit
+a193059 HEAD@{8}: checkout: moving from develop to release
+a193059 HEAD@{9}: checkout: moving from test to develop
+4d45ecf (test) HEAD@{10}: commit: third commit
+84e0cd4 HEAD@{11}: commit: third commit
+a193059 HEAD@{12}: checkout: moving from develop to test
+a193059 HEAD@{13}: commit: second commit
+40f96f5 (origin/master, origin/HEAD) HEAD@{14}: checkout: moving from master to develop
+40f96f5 (origin/master, origin/HEAD) HEAD@{15}: commit: first commit
+e8d55ab HEAD@{16}: clone: from https://github.com/Timofei387/hillel_Kuzmenko.git
+
