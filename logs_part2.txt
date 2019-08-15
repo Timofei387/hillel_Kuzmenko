@@ -1,0 +1,23 @@
+pc@LAPTOP-B8RU2RJU MINGW64 ~/Desktop/GIT remote/hillel_Kuzmenko (master)
+$ git reflog
+b5727f5 (HEAD -> master) HEAD@{0}: merge develop: Merge made by the 'recursive' strategy.
+219e212 (origin/master, origin/HEAD) HEAD@{1}: checkout: moving from develop to master
+a0f5288 (first, develop) HEAD@{2}: merge first: Fast-forward
+671a85a (second) HEAD@{3}: checkout: moving from first to develop
+a0f5288 (first, develop) HEAD@{4}: rebase -i (finish): returning to refs/heads/first
+a0f5288 (first, develop) HEAD@{5}: rebase -i (pick): first4 commit
+3554802 HEAD@{6}: rebase -i (pick): first3 commit
+5d1eb68 HEAD@{7}: rebase -i (pick): image commit
+0996ed8 HEAD@{8}: rebase -i (pick): first2 commit
+671a85a (second) HEAD@{9}: rebase -i (start): checkout develop
+8dc98d0 HEAD@{10}: checkout: moving from develop to first
+671a85a (second) HEAD@{11}: merge second: Fast-forward
+a656768 HEAD@{12}: checkout: moving from second to develop
+671a85a (second) HEAD@{13}: rebase -i (finish): returning to refs/heads/second
+671a85a (second) HEAD@{14}: rebase -i (pick): second3.1 commit
+551c275 HEAD@{15}: rebase -i (pick): change second
+61247e8 HEAD@{16}: rebase -i (pick): second3 commit
+4399b04 HEAD@{17}: rebase -i (pick): second2 commit
+e4c8863 HEAD@{18}: rebase -i (pick): second1 commit
+a656768 HEAD@{19}: rebase -i (start): checkout develop
+:
